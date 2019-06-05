@@ -1,0 +1,13 @@
+{
+  "name": "aca-selenium-workshop",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "chromedriver": "^74.0.0",
+    "dotenv-cli": "^2.0.0",
+    "geckodriver": "^1.16.2",
+    "nightwatch": "^1.1.10",
+    "selenium-server-standalone-jar": "3.141.5"
+  }
+}
